@@ -2,6 +2,7 @@
 // @name         Hide Kanji
 // @version      2
 // @grant        none
+// @match https://www.renshuu.com/*
 // ==/UserScript==
 
 let currentPageText = '';
